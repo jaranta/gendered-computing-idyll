@@ -1,0 +1,27 @@
+.d3-component svg {
+  background: #ddd;
+  max-height: 300px;
+}
+
+@media all and (max-width: 1000px) {
+  .d3-component svg {
+    max-height: 200px;
+  }
+}
+
+figure {
+  padding-bottom: 2em;
+}
+
+figcaption {
+  padding-top: 0.5em;
+  font-family: sans;
+  text-align: center;
+}
+
+span.aside {
+  font-size: 90%;
+  font-family: sans;
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+}

@@ -1,0 +1,92 @@
+[meta title:"Gendered Computing" description:"" /]
+
+[Header
+  fullWidth:true
+  title:"Gendered Computing"
+  subtitle:""
+  author:"Jonne Arjoranta"
+  authorLink:"https://jonne.arjoranta.fi"
+  date:"2020-03-25"
+  background:"#222222"
+  color:"#ffffff"
+   /]
+
+[Aside]
+This text focuses on United States, so the details are only applicable there. The details differ in different countries, but tend to follow similar trends.
+[/Aside]
+
+Why there are not more women in computer science? Why have there not been more women working as programmers? These questions often evoke speculation about biological differences, but that is a mistaken approach. There were women in both computer science and working as programmers, but they were driven out.
+
+# First programmers
+
+[Aside]
+[ENIAC](https://en.wikipedia.org/wiki/ENIAC) or *Electronic Numerical Integrator and Computer* was was the first general-purpose digital computer. It was first used in 1945.
+[/Aside]
+
+Before home computing, computers were huge machines needing whole rooms for themselves, like the ENIAC. In the early 20th century, computers were often programmed using what were called punch cards, cardboard cards with holes in them.
+
+Because using computers was very slow and required attention to detail, it was seen as a natural fit for women, who were often employed in secretarial positions doing similar tasks. You could do it indoors, so in most places it was seen as an office job. These assumptions were not universal, though: in Germany computers were run by men in overalls in settings that looked much more like factories than offices.
+
+[Aside]
+[figure]
+[img src:"./static/images/eniac.jpg" alt:"Betty Jennings and Frans Bilas in front of the ENIAC." /]
+[figcaption]Betty Jennings and Frans Bilas in front of the ENIAC.[/figcaption]
+[/figure]
+[/Aside]
+
+ENIAC was more powerful than most machines running punch cards. To make it work, you had to manipulate switches and cables, making the work extremely complex and time-consuming. ENIAC was programmed by six programmers, Kay McNulty, Betty Jennings, Betty Snyder, Marlyn Meltzer, Fran Bilas, and Ruth Lichterman, all women. They were mostly trained in mathematics, but there were very few jobs open to women with that kind of training, so they ended up working in the new field of computing. The women were chosen to work with ENIAC as "computers," using the ENIAC to calculate ballistic trajectories – in the 1940s terms they were the computers and ENIAC just a tool they used for their work.
+
+[Aside]
+[figure]
+[img src:"./static/images/hopper.jpg" alt:"Grace Hopper sitting in front of the UNIVAC, which she helped develop." /]
+[figcaption]Grace Hopper sitting in front of the UNIVAC, which she helped develop. Image [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/) by [Public.Resource.Org.](https://flic.kr/p/KDi1P)[/figcaption]
+[/figure]
+[/Aside]
+
+Their contributions did not stop there, and especially [Jennings](https://en.wikipedia.org/wiki/Jean_Bartik) and [Snyder](https://en.wikipedia.org/wiki/Betty_Holberton) continued to work as engineers and designers. Snyder later participated in developing the programming languages COBOL and FORTRAN with [Grace Hopper](https://en.wikipedia.org/wiki/Grace_Hopper). Hopper is also well known for her contributions, having developed the first compiler.
+
+Starting from the 60s, women started working in computing in large numbers. There were not enough people to work all the jobs in the booming computing industry, which made it easier for women to enter the workforce in computing than in more traditional fields. "Women are 'naturals' at computer programming," Grace Hopper is quoted as saying in a *Cosmopolitan* 1967 issue. Programming is "just like planning a dinner." By late 80s 38% of US white-collar computing workers were women. The proportion was even higher among programmers, 42% of which were women. This did not last: in the beginning of the 90s only 30% of the computing workforce were women.
+
+# Gendering computer science
+
+Women also started studying computer science in large numbers in the 1960s. The proportion of women in computer science increased for almost two decades. Women got 12% of US computer science bachelor's degrees in 1968 and 37% in 1984.
+
+The image of computing started to change during the 80s. The peak year for US computer science bachelor degrees for women was in 1984, with 37% of degrees going to women. By 2006, only 20% of bachelor degrees were for women. Computing was being gendered more and more masculine by the end of the 1980s.
+
+[var name:"computerScienceDegrees" value:`[
+  {year: 1968, percent: 12},
+  {year: 1978, percent: 26},
+  {year: 1984, percent: 37},
+  {year: 2006, percent: 20}
+]` /]
+
+[Aside]
+The chart is adapted from the United States National Science Foundation's *Science and Engineering Degrees: 1966–2006*.
+
+The trend shown in the chart follows similar trends in other STEM fields up to the 80s, when the proportion of women starts to fall only in computer science.
+[/Aside]
+
+[Chart type:"time" data:computerScienceDegrees domain:`[1968, 2006]` range:`[0, 50]` x:"year" y:"percent" /]
+
+# Home computers arrive
+
+As home computers became available in the 1970s, it was important for advertisers to make them attractive. They tried to make home computing respectable, emphasizing things like calculating taxes, even when the machines were often used mostly for playing games.
+
+[Aside]
+[figure]
+[img src:"./static/images/appleii.jpg" alt:"Ad for Apple II from 1977." /]
+[figcaption]Ad for Apple II from 1977.[/figcaption]
+[/figure]
+[/Aside]
+
+As was typical in the advertising imagery of the time, they offered conservative images of nuclear families with men using computers and women doing housework on the background, like in the 1977 ad for Apple II. In these ads, computing was clearly the realm of men.
+
+# Why were women pushed out?
+
+There were many reasons for why computing became coded male. One was that as computing jobs become more commonplace and varied, their status slowly rose. Higher status jobs are often coded masculine, even to the extent that wage differences follow these changes in gendering. Another factor was the creation of the idea of the nerd, usually tied to interest in technology – and clearly gendered male. The archetype shifted from the female secretary to the male nerd, hiding in the basement with computing equipment.
+
+The complete picture is much more complex than detailed here, but it is clear that just assuming biological differences is not going to explain the gender gap in computing, which got much worse after the 60s. Instead of looking for biological differences, it would be more useful to understand how gendering computing has been a historical process, with clear differences between decades.
+
+[hr/]
+
+Based on an [earlier text](https://jonne.arjoranta.fi/2017/gendered-computing/).
