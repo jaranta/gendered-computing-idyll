@@ -10,10 +10,10 @@
   /]
 
 [Aside]
-This text focuses on the United States, so the some things are only applicable there. The details differ in different countries, but tend to follow similar trends. Most of the information in this text comes from the book *Gender Codes* [Cite 
+This text focuses on the United States, so the some things are only applicable there. The details differ in different countries, but tend to follow similar trends. Most of the information in this text comes from the book *Gender Codes* [Cite
   authors:"Thomas J. Misa"
   title:"Gender Codes: Why Women are Leaving Computing"
-  url:"https://ieeexplore.ieee.org/servlet/opac?bknumber=6381792" 
+  url:"https://ieeexplore.ieee.org/servlet/opac?bknumber=6381792"
   id:"misa2010"
   venue: "Hoboken: Wiley-IEEE Press"
   date:"2010"
@@ -28,7 +28,7 @@ What percentage of people working on digital computers in US were women in 1945?
 [Aside]
 [Display value:women1945 /]%
 [/Aside]
-[Range value:women1945 min:0 max:100 /] 
+[Range value:women1945 min:0 max:100 /]
 
 What percentage of US bachelor's degrees in computer science were awarded to women in 1984?
 
@@ -91,7 +91,7 @@ By late 80s 38% of US white-collar computing workers were women. The proportion 
 
 ## Gendering computer science
 
-Women also started studying computer science in large numbers in the 1960s. In 1968 women got 12% of US computer science bachelor's degrees, but the number rose steadily through the 70s.
+Women also started studying computer science in large numbers in the 1960s. The first US computer science PhD was awarded to a woman, [sister Mary Kenneth Keller](https://www.cs.wisc.edu/2019/03/18/2759/) in 1965. In 1968 women got 12% of US computer science bachelor's degrees, but the number rose steadily through the 70s.
 
 [Aside]
 The chart is adapted from *Gender Codes* [Cite id:"misa2010"/] and is based the United States National Science Foundation's report *Science and Engineering Degrees: 1966–2006*.
@@ -138,10 +138,10 @@ When the original six programmers of ENIAC figured out how to operate the enourm
 ## Computing was made male
 
 [Aside]
-At least in the UK this lead to existing talent in the computing field to be discarded, leading to loss of knowledge and expertise [Cite 
+At least in the UK this lead to existing talent in the computing field to be discarded, leading to loss of knowledge and expertise [Cite
   authors:"M. Hicks"
   title:"Programmed Inequality: How Britain Discarded Women Technologists and Lost Its Edge in Computing"
-  url:"" 
+  url:""
   id:"hicks2017"
   venue: "Cambridge, MA: MIT Press"
   date:"2017"
