@@ -10,7 +10,7 @@
   /]
 
 [Aside]
-This text focuses on the United States, so the some things are only applicable there. The details differ in different countries, but tend to follow similar trends. Most of the information in this text comes from the book *Gender Codes* [Cite
+This text focuses on the United States, so some things are only applicable there. The details differ in different countries, but tend to follow similar trends. Most of the information in this text comes from the book *Gender Codes* [Cite
   authors:"Thomas J. Misa"
   title:"Gender Codes: Why Women are Leaving Computing"
   url:"https://ieeexplore.ieee.org/servlet/opac?bknumber=6381792"
@@ -22,7 +22,7 @@ This text focuses on the United States, so the some things are only applicable t
 
 Why aren't there more women in computer science? Why haven't there been more women working as programmers? These questions often evoke speculation about biological differences, but answers often leave out the historical and cultural context. We can try to figure out the answers to these questions, but let's start with mapping out what you think.
 
-What percentage of people working on digital computers in US were women in 1945?
+What percentage of people working as programmers on digital computers in US were women in 1945?
 
 [var name:"women1945" value:50 /]
 [Aside]
@@ -116,9 +116,9 @@ The image of computer science started to change during the 80s. The peak year fo
 
 ## Home computers arrive
 
-One reason for the changing image of computing was advertising, especially advertising of a new type of technology: home computers.
+What happened in the 80s to drive women out of computing? Multiple things at the same time. Computing become more professionalised, tempting more men to programming as its status rose. One reason for the changing image of computing was advertising, especially advertising of a new type of technology: home computers.
 
-As home computers became available in the 1970s, it was important for advertisers to make them attractive for potential customers. They tried to make home computing respectable, emphasizing things like calculating taxes, even when the machines were often used mostly for playing games.
+As home computers became available in the 1970s, it was important for advertisers to make them attractive to potential customers. They tried to make home computing respectable, emphasizing things like calculating taxes, even when the machines were often used mostly for playing games.
 
 [figure]
 [img src:"./static/images/appleii.jpg" alt:"An ad for the Apple II from 1977, with a man working on the computer while a woman is cooking in the kitchen." /]
@@ -148,7 +148,7 @@ At least in the UK this lead to existing talent in the computing field to be dis
 /].
 [/Aside]
 
-A new generation of male computer nerds was socialised into using computers from a young age, making it more likely that would they seek education or employment in that area. As computing jobs become more commonplace and varied, their status slowly rose. Higher status jobs are often coded masculine, even to the extent that wages change after the gender of the workers doing that job changes. As the idea of what a computer programmer looks like shifted, it became more difficult for women to get hired in that area.
+A new generation of male computer nerds was socialised into using computers from a young age, making it more likely that would they seek education or employment in that area. As computing jobs become more commonplace and varied, their status slowly rose. Higher status jobs are often coded masculine, even to the extent that changes in wages follow changes in gender ratios of the workers. As the idea of what a computer programmer looks like shifted, it became more difficult for women to get hired in that area.
 
 For the first two decades, computing work was gendered female. Starting from the 60s, it was seen suitable for both men and women, with more than four in ten programming jobs held by women. This started to change in the 80s, when programming was gendered increasingly masculine.
 
