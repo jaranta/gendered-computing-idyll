@@ -99,14 +99,10 @@ The chart is adapted from *Gender Codes* [Cite id:"misa2010"/] and is based the 
 The trend shown in the chart follows similar trends in other STEM fields up to the 80s, when the proportion of women starts to fall only in computer science.
 [/Aside]
 
-[var name:"computerScienceDegrees" value:`[
-  {year: 1968, percent: 12},
-  {year: 1978, percent: 26},
-  {year: 1984, percent: 37},
-  {year: 2006, percent: 20},
-]` /]
-
-[Chart type:"time" data:computerScienceDegrees domain:`[1968, 2006]` range:`[0, 50]` x:"year" y:"percent" /]
+[figure]
+[img src:"./static/images/us-bachelor-degrees.png" alt:"The proportion of US bachelor CS degrees awarded to women" /]
+[figcaption]The percentage of US CS bachelor degrees awarded to women.[/figcaption]
+[/figure]
 
 [Aside]
 You guessed that [Display var:womencs/]% of US bachelor's degrees in computer science were awarded to women in 1984.
