@@ -5,7 +5,7 @@
   title:"Gendered Computing"
   subtitle: "Exploring why there aren't more women in computing"
   author:"Jonne Arjoranta"
-  date:`(new Date()).toDateString()`
+  date: "Jun 4 2020"
   authorLink:"https://jonne.arjoranta.fi"
   /]
 
